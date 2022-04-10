@@ -16,7 +16,7 @@ $ ./computus 1907
 1907-03-31
 $ ./computus 2022
 2022-04-17
-# ./computus 2049
+$ ./computus 2049
 2049-04-18
 
 Compilation has been tested on Arch Linux with GCC 11.2.0, Clang 13.0.1, and TCC
